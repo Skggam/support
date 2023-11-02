@@ -146,7 +146,7 @@ Successful applicants will be accepted into the Design Team, which assists the n
 
 We expect applicants to be active, committed, creative, and have a good computer-aided, graphic, or Minecraft texture design background. Upon completing your application, you will be asked to provide three relevant examples of your creations and optionally include your portfolio website or a cover letter & resume.
 
-We will not provide training or necessary equipment (i.e., a computer, software license, etc.). You must have sufficient knowledge of design concepts before applying.
+We will provide training or necessary equipment (i.e., a computer, software license, etc.). You must have sufficient knowledge of design concepts before applying.
 
 **Model Designer & Texture Artist —** Create and design custom entity models, cosmetics, pets, or exciting User Interfaces. Sufficient experience and knowledge in Blockbench or working with JSON UIs required.
 
